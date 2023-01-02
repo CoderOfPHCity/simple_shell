@@ -5,7 +5,7 @@
 /**
  * _putchar - print a char
  * @ch: char
- * Return: int
+ * Return: file
  */
 
 
